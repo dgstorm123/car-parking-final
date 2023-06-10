@@ -1,0 +1,34 @@
+C:\Users\WELCOME\Desktop\CNPM_LT_1\CarParking\CarParkingSystem\BUS\bin\Debug\net6.0\BUS.deps.json
+C:\Users\WELCOME\Desktop\CNPM_LT_1\CarParking\CarParkingSystem\BUS\bin\Debug\net6.0\BUS.dll
+C:\Users\WELCOME\Desktop\CNPM_LT_1\CarParking\CarParkingSystem\BUS\bin\Debug\net6.0\BUS.pdb
+C:\Users\WELCOME\Desktop\CNPM_LT_1\CarParking\CarParkingSystem\BUS\bin\Debug\net6.0\DAO.dll
+C:\Users\WELCOME\Desktop\CNPM_LT_1\CarParking\CarParkingSystem\BUS\bin\Debug\net6.0\DTO.dll
+C:\Users\WELCOME\Desktop\CNPM_LT_1\CarParking\CarParkingSystem\BUS\bin\Debug\net6.0\DAO.pdb
+C:\Users\WELCOME\Desktop\CNPM_LT_1\CarParking\CarParkingSystem\BUS\bin\Debug\net6.0\DTO.pdb
+C:\Users\WELCOME\Desktop\CNPM_LT_1\CarParking\CarParkingSystem\BUS\obj\Debug\net6.0\BUS.csproj.AssemblyReference.cache
+C:\Users\WELCOME\Desktop\CNPM_LT_1\CarParking\CarParkingSystem\BUS\obj\Debug\net6.0\BUS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WELCOME\Desktop\CNPM_LT_1\CarParking\CarParkingSystem\BUS\obj\Debug\net6.0\BUS.AssemblyInfoInputs.cache
+C:\Users\WELCOME\Desktop\CNPM_LT_1\CarParking\CarParkingSystem\BUS\obj\Debug\net6.0\BUS.AssemblyInfo.cs
+C:\Users\WELCOME\Desktop\CNPM_LT_1\CarParking\CarParkingSystem\BUS\obj\Debug\net6.0\BUS.csproj.CoreCompileInputs.cache
+C:\Users\WELCOME\Desktop\CNPM_LT_1\CarParking\CarParkingSystem\BUS\obj\Debug\net6.0\BUS.csproj.CopyComplete
+C:\Users\WELCOME\Desktop\CNPM_LT_1\CarParking\CarParkingSystem\BUS\obj\Debug\net6.0\BUS.dll
+C:\Users\WELCOME\Desktop\CNPM_LT_1\CarParking\CarParkingSystem\BUS\obj\Debug\net6.0\refint\BUS.dll
+C:\Users\WELCOME\Desktop\CNPM_LT_1\CarParking\CarParkingSystem\BUS\obj\Debug\net6.0\BUS.pdb
+C:\Users\WELCOME\Desktop\CNPM_LT_1\CarParking\CarParkingSystem\BUS\obj\Debug\net6.0\ref\BUS.dll
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\Car_Parking\CarParkingSystem_Winform\CarParkingSystem\BUS\bin\Debug\net6.0\BUS.deps.json
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\Car_Parking\CarParkingSystem_Winform\CarParkingSystem\BUS\bin\Debug\net6.0\BUS.dll
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\Car_Parking\CarParkingSystem_Winform\CarParkingSystem\BUS\bin\Debug\net6.0\BUS.pdb
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\Car_Parking\CarParkingSystem_Winform\CarParkingSystem\BUS\bin\Debug\net6.0\DAO.dll
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\Car_Parking\CarParkingSystem_Winform\CarParkingSystem\BUS\bin\Debug\net6.0\DTO.dll
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\Car_Parking\CarParkingSystem_Winform\CarParkingSystem\BUS\bin\Debug\net6.0\DAO.pdb
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\Car_Parking\CarParkingSystem_Winform\CarParkingSystem\BUS\bin\Debug\net6.0\DTO.pdb
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\Car_Parking\CarParkingSystem_Winform\CarParkingSystem\BUS\obj\Debug\net6.0\BUS.csproj.AssemblyReference.cache
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\Car_Parking\CarParkingSystem_Winform\CarParkingSystem\BUS\obj\Debug\net6.0\BUS.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\Car_Parking\CarParkingSystem_Winform\CarParkingSystem\BUS\obj\Debug\net6.0\BUS.AssemblyInfoInputs.cache
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\Car_Parking\CarParkingSystem_Winform\CarParkingSystem\BUS\obj\Debug\net6.0\BUS.AssemblyInfo.cs
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\Car_Parking\CarParkingSystem_Winform\CarParkingSystem\BUS\obj\Debug\net6.0\BUS.csproj.CoreCompileInputs.cache
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\Car_Parking\CarParkingSystem_Winform\CarParkingSystem\BUS\obj\Debug\net6.0\BUS.csproj.CopyComplete
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\Car_Parking\CarParkingSystem_Winform\CarParkingSystem\BUS\obj\Debug\net6.0\BUS.dll
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\Car_Parking\CarParkingSystem_Winform\CarParkingSystem\BUS\obj\Debug\net6.0\refint\BUS.dll
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\Car_Parking\CarParkingSystem_Winform\CarParkingSystem\BUS\obj\Debug\net6.0\BUS.pdb
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\Car_Parking\CarParkingSystem_Winform\CarParkingSystem\BUS\obj\Debug\net6.0\ref\BUS.dll

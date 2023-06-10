@@ -1,0 +1,30 @@
+C:\Users\WELCOME\Desktop\CNPM_LT_1\CarParking\CarParkingSystem\DAO\bin\Debug\net6.0\DAO.deps.json
+C:\Users\WELCOME\Desktop\CNPM_LT_1\CarParking\CarParkingSystem\DAO\bin\Debug\net6.0\DAO.dll
+C:\Users\WELCOME\Desktop\CNPM_LT_1\CarParking\CarParkingSystem\DAO\bin\Debug\net6.0\DAO.pdb
+C:\Users\WELCOME\Desktop\CNPM_LT_1\CarParking\CarParkingSystem\DAO\bin\Debug\net6.0\DTO.dll
+C:\Users\WELCOME\Desktop\CNPM_LT_1\CarParking\CarParkingSystem\DAO\bin\Debug\net6.0\DTO.pdb
+C:\Users\WELCOME\Desktop\CNPM_LT_1\CarParking\CarParkingSystem\DAO\obj\Debug\net6.0\DAO.csproj.AssemblyReference.cache
+C:\Users\WELCOME\Desktop\CNPM_LT_1\CarParking\CarParkingSystem\DAO\obj\Debug\net6.0\DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WELCOME\Desktop\CNPM_LT_1\CarParking\CarParkingSystem\DAO\obj\Debug\net6.0\DAO.AssemblyInfoInputs.cache
+C:\Users\WELCOME\Desktop\CNPM_LT_1\CarParking\CarParkingSystem\DAO\obj\Debug\net6.0\DAO.AssemblyInfo.cs
+C:\Users\WELCOME\Desktop\CNPM_LT_1\CarParking\CarParkingSystem\DAO\obj\Debug\net6.0\DAO.csproj.CoreCompileInputs.cache
+C:\Users\WELCOME\Desktop\CNPM_LT_1\CarParking\CarParkingSystem\DAO\obj\Debug\net6.0\DAO.csproj.CopyComplete
+C:\Users\WELCOME\Desktop\CNPM_LT_1\CarParking\CarParkingSystem\DAO\obj\Debug\net6.0\DAO.dll
+C:\Users\WELCOME\Desktop\CNPM_LT_1\CarParking\CarParkingSystem\DAO\obj\Debug\net6.0\refint\DAO.dll
+C:\Users\WELCOME\Desktop\CNPM_LT_1\CarParking\CarParkingSystem\DAO\obj\Debug\net6.0\DAO.pdb
+C:\Users\WELCOME\Desktop\CNPM_LT_1\CarParking\CarParkingSystem\DAO\obj\Debug\net6.0\ref\DAO.dll
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\Car_Parking\CarParkingSystem_Winform\CarParkingSystem\DAO\bin\Debug\net6.0\DAO.deps.json
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\Car_Parking\CarParkingSystem_Winform\CarParkingSystem\DAO\bin\Debug\net6.0\DAO.dll
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\Car_Parking\CarParkingSystem_Winform\CarParkingSystem\DAO\bin\Debug\net6.0\DAO.pdb
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\Car_Parking\CarParkingSystem_Winform\CarParkingSystem\DAO\bin\Debug\net6.0\DTO.dll
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\Car_Parking\CarParkingSystem_Winform\CarParkingSystem\DAO\bin\Debug\net6.0\DTO.pdb
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\Car_Parking\CarParkingSystem_Winform\CarParkingSystem\DAO\obj\Debug\net6.0\DAO.csproj.AssemblyReference.cache
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\Car_Parking\CarParkingSystem_Winform\CarParkingSystem\DAO\obj\Debug\net6.0\DAO.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\Car_Parking\CarParkingSystem_Winform\CarParkingSystem\DAO\obj\Debug\net6.0\DAO.AssemblyInfoInputs.cache
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\Car_Parking\CarParkingSystem_Winform\CarParkingSystem\DAO\obj\Debug\net6.0\DAO.AssemblyInfo.cs
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\Car_Parking\CarParkingSystem_Winform\CarParkingSystem\DAO\obj\Debug\net6.0\DAO.csproj.CoreCompileInputs.cache
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\Car_Parking\CarParkingSystem_Winform\CarParkingSystem\DAO\obj\Debug\net6.0\DAO.csproj.CopyComplete
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\Car_Parking\CarParkingSystem_Winform\CarParkingSystem\DAO\obj\Debug\net6.0\DAO.dll
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\Car_Parking\CarParkingSystem_Winform\CarParkingSystem\DAO\obj\Debug\net6.0\refint\DAO.dll
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\Car_Parking\CarParkingSystem_Winform\CarParkingSystem\DAO\obj\Debug\net6.0\DAO.pdb
+E:\Documents\OneDrive - student.tdtu.edu.vn\Desktop\Car_Parking\CarParkingSystem_Winform\CarParkingSystem\DAO\obj\Debug\net6.0\ref\DAO.dll
